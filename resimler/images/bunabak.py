@@ -25,4 +25,4 @@ async def on_ready():
     print('------')
 
 
-bot.run("MTEzNjY5ODE5MjE2ODIzMDkyMg.GWqjR6.wrcB1JlfKfDbphqkHiUSqQj2XACICkl1rk-A18")
+bot.run("token")
