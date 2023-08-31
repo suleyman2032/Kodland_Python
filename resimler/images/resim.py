@@ -24,5 +24,5 @@ async def randommem(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 print(os.listdir(r'C:\Users\Sahip\Desktop\Kodland_Python\resimler\images'))
-bot.run("MTEzNjY5ODE5MjE2ODIzMDkyMg.GZ9Rn4.0zLTTbg9uW1fy0yo7a4_y9C_7WyG6p0I8V5JEI")
+bot.run("your token")
 
