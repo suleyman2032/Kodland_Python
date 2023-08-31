@@ -24,4 +24,4 @@ async def heh(ctx, count_heh = 5):
 
 
 
-bot.run("MTEzNjY5ODE5MjE2ODIzMDkyMg.GWqjR6.wrcB1JlfKfDbphqkHiUSqQj2XACICkl1rk-A18")
+bot.run("")
